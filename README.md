@@ -1,5 +1,5 @@
 ## 리액트 hooks
-
+```
 ## 1. useState
 
 import { useState } from "react";
@@ -19,7 +19,7 @@ return (
 }
 
 export default App
-
+```
 ## 2. useInput
 
 import { useState } from "react";
